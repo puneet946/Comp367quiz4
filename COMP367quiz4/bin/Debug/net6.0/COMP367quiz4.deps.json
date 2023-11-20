@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "COMP367quiz4/1.0.0": {
+        "runtime": {
+          "COMP367quiz4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COMP367quiz4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
